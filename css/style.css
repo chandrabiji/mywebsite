@@ -210,3 +210,10 @@ footer{
     width: 30%;
     padding: 119px;
 }
+
+#boxes .box2 {
+    float: left;
+    text-align: center;
+    width: 30%;
+    padding: 111px;
+}
