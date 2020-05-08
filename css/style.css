@@ -203,3 +203,10 @@ footer{
     margin-bottom:5px;
   }
 }
+
+#boxes .box1 {
+    float: left;
+    text-align: center;
+    width: 30%;
+    padding: 119px;
+}
