@@ -132,7 +132,7 @@ header a:hover{
 }
 
 #boxes .box img{
-  width:250px;
+  width:90px;
 }
 
 /* Sidebar */
@@ -204,16 +204,9 @@ footer{
   }
 }
 
-#boxes .box1 {
+#boxes .box {
     float: left;
     text-align: center;
     width: 30%;
     padding: 119px;
-}
-
-#boxes .box2 {
-    float: left;
-    text-align: center;
-    width: 30%;
-    padding: 111px;
 }
